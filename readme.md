@@ -1,5 +1,7 @@
 # Uma API REST simples para consumo de dados
 
+Uma API Rest em Javascript, desenvolvida com Express para o gerenciamento de rotas e requisições HTTP, utiliza o Sequelize para operações SQL e conexão com o MySQL. Esta API possibilita a realização das operações CRUD (Create, Read, Update, Delete) e a inclusão de fotos de perfil.
+
 Para subir o projeto no ar com SQLite, copie o arquivo `.env_example` para `.env`.
 
 Você também precisará adicionar uma secret key no arquivo `.env`:
